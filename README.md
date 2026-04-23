@@ -154,11 +154,36 @@ We are open to working with:
 
 ## Connect
 
-- Website: https://covislabs.com
-- Email: hello@covislabs.com
-- Instagram: https://www.instagram.com/covislabs/
-- X: https://x.com/covislabs
-- LinkedIn: https://linkedin.com/company/covislabs
+
+<p align="center">
+  <a href="https://covislabs.com">🌐</a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/covislabs">
+    <img src="./logo/x.jpeg" width="22" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/covislabs">
+    <img src="./logo/instagram.webp" width="22" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/company/covislabs">
+    <img src="./logo/linkedin.webp" width="22" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/covislabs">
+    <img src="./logo/discord.png" width="22" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@covislabs">
+    <img src="./logo/youtube.webp" width="22" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@covislabs">
+    <img src="./logo/tiktok.png" width="22" alt="TikTok" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hello@covislabs.com">✉️</a>
+</p>
 
 ---
 

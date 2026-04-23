@@ -11,36 +11,28 @@ Building modern software, intelligent systems, digital infrastructure, and futur
 <p align="center">
   <a href="https://covislabs.com">🌐</a>
   &nbsp;&nbsp;
-  <a href="https://github.com/covislabs">
-    <img src="./assets/icons/github.png" width="22" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/covislabs">
-    <img src="./assets/icons/x.png" width="22" alt="X" />
+    <img src="./logo/x.png" width="22" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/covislabs">
-    <img src="./assets/icons/instagram.png" width="22" alt="Instagram" />
+    <img src="./logo/instagram.webp" width="22" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/company/covislabs">
-    <img src="./assets/icons/linkedin.png" width="22" alt="LinkedIn" />
+    <img src="./logo/linkedin.webp" width="22" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/covislabs">
-    <img src="./assets/icons/discord.png" width="22" alt="Discord" />
+    <img src="./logo/discord.png" width="22" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://youtube.com/@covislabs">
-    <img src="./assets/icons/youtube.png" width="22" alt="YouTube" />
+    <img src="./logo/youtube.webp" width="22" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tiktok.com/@covislabs">
-    <img src="./assets/icons/tiktok.png" width="22" alt="TikTok" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://facebook.com/covislabs">
-    <img src="./assets/icons/facebook.png" width="22" alt="Facebook" />
+    <img src="./logo/tiktok.png" width="22" alt="TikTok" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hello@covislabs.com">✉️</a>

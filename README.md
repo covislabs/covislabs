@@ -1,16 +1,183 @@
-## Hi there 👋
+<p align="center">
+  <img src="./COVIS_Labs_Horizontal_Logo.jpg" alt="COVIS Labs" width="100%" />
+</p>
 
-<!--
-**covislabs/covislabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">COVIS Labs</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern software, intelligent systems, digital infrastructure, and future-facing ventures.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://covislabs.com">🌐</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/covislabs">
+    <img src="./assets/icons/github.png" width="22" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/covislabs">
+    <img src="./assets/icons/x.png" width="22" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/covislabs">
+    <img src="./assets/icons/instagram.png" width="22" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/company/covislabs">
+    <img src="./assets/icons/linkedin.png" width="22" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/covislabs">
+    <img src="./assets/icons/discord.png" width="22" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@covislabs">
+    <img src="./assets/icons/youtube.png" width="22" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@covislabs">
+    <img src="./assets/icons/tiktok.png" width="22" alt="TikTok" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/covislabs">
+    <img src="./assets/icons/facebook.png" width="22" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hello@covislabs.com">✉️</a>
+</p>
+
+---
+
+## About
+
+COVIS Labs is a modern holding company and innovation studio focused on building high-leverage digital products, intelligent systems, and scalable ventures.
+
+We operate across multiple domains under one unified vision:
+
+- Software Products  
+- Artificial Intelligence  
+- Cyber & Digital Security  
+- Internet Platforms  
+- Automation Systems  
+- Internal Tools  
+- Experimental Ventures  
+- Long-Term Technology Bets  
+
+Our model is simple:
+
+> Build exceptional.  
+> Launch meaningful.  
+> Create durable.
+
+---
+
+## What We Do
+
+### Software Engineering
+
+We design and ship modern software with a focus on quality, speed, and usability.
+
+- SaaS Platforms  
+- Web Applications  
+- Mobile Products  
+- Internal Systems  
+- APIs & Infrastructure
+
+---
+
+### Artificial Intelligence
+
+We integrate modern AI into real-world products and workflows.
+
+- AI Agents  
+- Automation Pipelines  
+- Language Systems  
+- Recommendation Systems  
+- Applied Intelligence Tools
+
+---
+
+### Cyber & Infrastructure
+
+We explore secure, scalable, resilient systems for the modern internet.
+
+- Secure Platforms  
+- Identity Systems  
+- Infrastructure Tooling  
+- Reliability Engineering  
+- Operational Security
+
+---
+
+### Venture Studio
+
+We launch, incubate, and scale new ideas internally.
+
+- New Products  
+- Spinout Brands  
+- Growth Experiments  
+- Digital Acquisitions  
+- Long-Term R&D
+
+---
+
+## Philosophy
+
+We believe the future belongs to teams who can:
+
+- Build quickly  
+- Operate intelligently  
+- Design beautifully  
+- Think long-term  
+- Execute repeatedly
+
+We favor simplicity, leverage, and substance over noise.
+
+---
+
+## Current Focus
+
+- AI-native software  
+- Workflow automation  
+- Global digital products  
+- Growth systems  
+- Scalable media assets  
+- Internet-first businesses
+
+---
+
+## Open to Collaborate
+
+We are open to working with:
+
+- Founders  
+- Operators  
+- Designers  
+- Engineers  
+- Strategic Partners  
+- Investors  
+- Exceptional Talent
+
+---
+
+## Connect
+
+- Website: https://covislabs.com
+- Email: hello@covislabs.com
+- Instagram: https://www.instagram.com/covislabs/
+- X: https://x.com/covislabs
+- LinkedIn: https://linkedin.com/company/covislabs
+
+---
+
+## Motto
+
+> Build what matters.  
+> Scale what works.  
+> Own the future.
+
+---
+
+<p align="center">
+© COVIS Labs
+</p>

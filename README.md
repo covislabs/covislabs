@@ -12,7 +12,7 @@ Building modern software, intelligent systems, digital infrastructure, and futur
   <a href="https://covislabs.com">🌐</a>
   &nbsp;&nbsp;
   <a href="https://x.com/covislabs">
-    <img src="./logo/x.png" width="22" alt="X" />
+    <img src="./logo/x.jpeg" width="22" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/covislabs">
